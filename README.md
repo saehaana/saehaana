@@ -3,7 +3,7 @@ I'm currently a senior attending Virginia Commonwealth University to obtain a B.
 
 - 🔭 I’m currently working on automating my computer science department's override system and am building a personal website from scratch 
 - 🌱 I'm currently interested in and learning front-end languages as they feel immediately more rewarding for your effort!
-- 📫 If you want to talk feel free to send me an email or contact me at [here](https://github.com/saehaana/saehaana/issues)  
+- 📫 If you want to talk feel free to send me an email or contact me [here](https://github.com/saehaana/saehaana/issues)  
 <!--
 **saehaana/saehaana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
