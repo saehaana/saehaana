@@ -1,8 +1,8 @@
 ### Hello there! 👋
-I'm currently a senior attending Virginia Commonwealth University to obtain a B.S in computer science under the school's College of Engineering and am looking for software developer/engineer related internship or full-time positions.
+I just received my undergrad from VCU's computer science program and am looking for software developer/engineer full-time positions.
 
-- 🔭 I’m currently working on automating my computer science department's override system and am building a personal website
-- 🌱 I'm currently interested in and learning front-end languages as I believe they feel immediately more rewarding for your effort!
+- 🔭 I’m currently working on brushing up my coding interview skills
+- 🌱 I'm currently interested in and learning back-end languages as I believe they feel immediately more rewarding for your effort!
 - 📫 If you want to talk feel free to send me an email or contact me [here](https://github.com/saehaana/saehaana/issues)  
 <!--
 **saehaana/saehaana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
