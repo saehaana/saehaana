@@ -1,7 +1,8 @@
 ### Hello there! 👋
 I just received my undergrad from VCU's computer science program and am looking for software developer/engineer full-time positions.
 
-- 📫 If you want to talk feel free to send me an email or contact me [here](https://github.com/saehaana/saehaana/issues)  
+- 📫 If you want to talk feel free to contact me by phone or email at 703-336-9063 | saehaana@gmail.com
+- You can also reach me through my [LinkedIn](https://www.linkedin.com/in/saehaana/)  
 <!--
 **saehaana/saehaana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
