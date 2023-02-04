@@ -1,5 +1,5 @@
 ### Hello there! 👋
-I just received my undergrad from VCU's computer science program and am looking for software developer/engineer full-time positions.
+I received my undergrad from VCU's computer science program and am looking for software developer/engineer full-time positions.
 
 📫 If you want to talk feel free to contact me by phone or email at 703-336-9063 | saehaana@gmail.com
 
